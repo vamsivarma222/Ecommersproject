@@ -1,0 +1,15 @@
+
+j
+java:S2095
+"HUse try-with-resources or close this "Playwright" in a "finally" clause.(Ã’“Íøÿÿÿÿ8«öçË„2
+n
+java:S2095"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶þ½úÿÿÿÿ8«öçË„2
+“
+java:S1130	"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¯öçË„2
+ƒ	java:S125%"<This block of commented-out lines of code should be removed.(ÝïÐñùÿÿÿÿ8ÇåÄË„2J$f83d7da5-53ab-490c-b4a8-2db8773527e9
+X	java:S125*"<This block of commented-out lines of code should be removed.(¶§¦Ã8³öçË„2
+ƒ	java:S125/"<This block of commented-out lines of code should be removed.(–‹ÒÕÿÿÿÿÿ8âåÄË„2J$1d3cfb36-b709-43fa-81c7-da0463d0c224
+t
+java:S1128"RRemove this unused import 'com.microsoft.playwright.options.WaitForSelectorState'.(Â¬½ÿÿÿÿÿ8µöçË„2
+n
+java:S5960"+Remove this assertion from production code.(›®‡Å8ãåÄË„2J$6097feb3-85ca-4cc8-9ebe-afadddb52758

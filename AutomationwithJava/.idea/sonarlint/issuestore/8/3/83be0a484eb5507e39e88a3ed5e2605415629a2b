@@ -1,0 +1,8 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ÄÁÅşÿÿÿÿJ$6cda0036-7c4c-40e8-99d9-d358dcfe7339
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¢§ŠJ$b90d02b0-0d2c-4fa7-b5a5-2116afe11cce
+”
+java:S2095
+"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8ÙèõŸ2J$93b43380-d156-4b44-aaa6-52735aa54db6
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78İèõŸ2J$3c25b7b3-1033-4540-98fa-b23b0465dfe7

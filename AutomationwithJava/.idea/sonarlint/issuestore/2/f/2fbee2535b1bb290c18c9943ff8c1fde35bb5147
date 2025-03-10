@@ -1,0 +1,10 @@
+
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(í‰ˆçÿÿÿÿÿ8Ïéıƒ2J$8f350fd8-0310-4c0a-b436-ec553d27a37b
+”
+java:S2095
+"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8Ïéıƒ2J$ad0a69dc-7abe-44b4-9d71-c29cb0ecf5e5
+
+java:S2095"HUse try-with-resources or close this "Playwright" in a "finally" clause.(Ã’“Íøÿÿÿÿ8Ïéıƒ2J$dd725d6a-ea00-4ea1-8c55-fa5631b657d4
+
+java:S1128"<Remove this unused import 'org.assertj.core.api.Assertions'.(šàÏí8œÏéıƒ2J$45402ddb-dc5b-4de4-b21b-21c18654bf1b

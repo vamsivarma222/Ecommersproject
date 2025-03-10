@@ -1,0 +1,22 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±“øıÿÿÿÿ8›¹õÌ…2J$52ccf542-7cff-4cc2-a02b-be4debce27be
+Š
+java:S1192$"GDefine a constant instead of duplicating this literal "button" 4 times.(™¶€ö8ï¹õÌ…2J$38eba31e-6a12-4a82-8019-aedd646b2834
+§
+java:S1192V"_Define a constant instead of duplicating this literal "//img[@alt='automateNow Logo']" 5 times.(ÏåÈÕúÿÿÿÿ8ş¹õÌ…2J$96a8b9a3-1a4e-445a-b2ed-5a7a6494cc78
+¥
+java:S1192<"]Define a constant instead of duplicating this literal "//b[normalize-space()='Pig']" 4 times.(‘´Éüÿÿÿÿ8ÇºõÌ…2J$1c054f6b-c165-427d-9b3a-617c9e4b85b4
+Ÿ
+java:S1192#"]Define a constant instead of duplicating this literal "//b[normalize-space()='Cat']" 3 times.(Ù„8óºõÌ…2J$73e2a3eb-9832-4b07-9969-16e18de61855
+¥
+java:S1192J"]Define a constant instead of duplicating this literal "//b[normalize-space()='Cow']" 3 times.(÷ˆ€‡şÿÿÿÿ8óºõÌ…2J$9efd4109-dfdf-424a-9cc4-2362569aba1d
+Ÿ
+java:S1192/"]Define a constant instead of duplicating this literal "//b[normalize-space()='Dog']" 4 times.(ñÚèn8óºõÌ…2J$ffde5d34-89a8-4019-86d4-a96cccbeb5a6
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(ÇÍ„¬ıÿÿÿÿ8óºõÌ…2J$eee4c0c8-23c6-4652-a419-dbaa1a29f35d
+”
+java:S2095"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8óºõÌ…2J$d481d289-c919-4fe2-9f61-ccc362b2ab22
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(í‰ˆçÿÿÿÿÿ8óºõÌ…2J$db147b96-a648-4326-b634-e1104573e0e0
+s
+java:S5960"+Remove this assertion from production code.(ÿ·“ëıÿÿÿÿ8óºõÌ…2J$cb6325da-5e20-4928-8c07-d528c75cdc5e

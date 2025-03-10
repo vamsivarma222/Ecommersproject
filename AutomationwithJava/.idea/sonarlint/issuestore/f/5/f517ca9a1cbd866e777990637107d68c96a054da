@@ -1,0 +1,10 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Èè´8¡Âæ¡…2J$1e411da7-6c91-4896-b7a8-22014eb91100
+§
+java:S1192:"_Define a constant instead of duplicating this literal "//img[@alt='automateNow Logo']" 4 times.(ÏåÈÕúÿÿÿÿ8¨Âæ¡…2J$2defc0bc-4abc-4903-9775-7fa1aa6926a5
+”
+java:S2095"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8©Âæ¡…2J$f1191aae-61fa-4a0b-b808-a1ef7dd90699
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(í‰ˆçÿÿÿÿÿ8¨Âæ¡…2J$0efc234a-1e8e-46ad-8309-3da2607a66ea
+s
+java:S5960."+Remove this assertion from production code.(Ö •¯ûÿÿÿÿ8æÂæ¡…2J$8f35919e-cd9d-4316-81b9-ebdbf88091a0

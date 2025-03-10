@@ -1,0 +1,6 @@
+
+”
+java:S2095
+"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8ÒÜú³2J$1793dce4-7098-4bb6-adde-dcce3094a07b
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ÕÜú³2J$cdde6510-d318-4c43-a156-58701393d469

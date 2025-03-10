@@ -1,0 +1,10 @@
+
+
+java:S1192"FDefine a constant instead of duplicating this literal "vamsi" 9 times.(Α‘ΔÒÿÿÿÿÿ8Ρδί³2J$43e2dbbc-54c8-445f-9a50-c268e0a0f853
+
+java:S2095
+"BUse try-with-resources or close this "Page" in a "finally" clause.(ν‰ηÿÿÿÿÿ8Òδί³2J$fd3f055d-2f26-4e58-9de4-577e5e1d5c83
+
+java:S2095"HUse try-with-resources or close this "Playwright" in a "finally" clause.(Γ’“Νψÿÿÿÿ8Òδί³2J$e2b8df9b-9590-4b85-9f09-f959362c8b6e
+”
+java:S2095	"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ώ½ϊÿÿÿÿ8Òδί³2J$f2d3463a-dcf2-4cf6-8c94-17e643c95c82

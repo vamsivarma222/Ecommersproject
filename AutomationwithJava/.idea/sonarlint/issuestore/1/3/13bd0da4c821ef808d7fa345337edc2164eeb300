@@ -1,0 +1,10 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ÄÁÅşÿÿÿÿ8äú×õŸ2J$7b918d73-3426-49cb-b071-dcf9c053f80b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¢§Š8äú×õŸ2J$dce0a068-b677-442c-b626-579990ad959e
+”
+java:S2095
+"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8îÁÙõŸ2J$84e1141b-8364-4f5f-97b4-140b74af41de
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(í‰ˆçÿÿÿÿÿ8îÁÙõŸ2J$a214ffed-a4bd-45bd-9620-6a2f51ea3176
+
+java:S2095"HUse try-with-resources or close this "Playwright" in a "finally" clause.(Ã’“Íøÿÿÿÿ8îÁÙõŸ2J$b2c595ca-ef54-484b-bc2f-95cd3a781667

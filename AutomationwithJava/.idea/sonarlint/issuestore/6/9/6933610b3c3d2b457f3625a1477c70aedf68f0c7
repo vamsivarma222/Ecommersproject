@@ -1,0 +1,14 @@
+
+Ž	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(žàå`8Æï¦˜…2J$c1c71379-e8bf-49cc-ace9-e24768611cb5
+£
+java:S1192I"[Define a constant instead of duplicating this literal "//button[@id='submit-btn']" 3 times.(‡ûù¶ûÿÿÿÿ8Ëï¦˜…2J$9d13bb33-b55a-4454-a7f4-2e930428842f
+¡
+java:S1192$"^Define a constant instead of duplicating this literal "//*[@id=\"header\"]/div/a/img" 3 times.(èá¾É8Îï¦˜…2J$4d1484cb-ed1b-48e7-92cd-9210ea1413d4
+®
+java:S1192"kDefine a constant instead of duplicating this literal "//a[contains(text(), 'JavaScript Delays')]" 3 times.(‚ÿ¹ä8úï¦˜…2J$0211292f-532f-4839-9218-abbdb24034f9
+”
+java:S2095"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶þ½úÿÿÿÿ8ãÕ±˜…2J$0939d6c9-d1fb-4637-bce3-6c88f0085221
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(í‰ˆçÿÿÿÿÿ8äÕ±˜…2J$dc0da843-1a3a-4cbc-84ad-68050149cc5b
+s
+java:S5960,"+Remove this assertion from production code.(»ŒÔÖûÿÿÿÿ8º«×˜…2J$975a124e-27c5-42a6-9db2-30a06a131f0f

@@ -1,0 +1,17 @@
+
+“	java:S117B"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Æ—Ê8Æûüƒ2J$a8a5966e-07b2-40b7-8c11-906bcdee6930
+“	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¤ù¡8Æûüƒ2J$a6e699f7-bda5-4b06-9332-8dc48e6860f8
+–
+java:S1192 "NDefine a constant instead of duplicating this literal "kanumurivamsi" 5 times.(ä±ä×şÿÿÿÿ8Èûüƒ2J$9c23fec6-8215-46df-b35c-00b755de0e08
+¥
+java:S1192)"]Define a constant instead of duplicating this literal "(//input[@class=\"input\"])[" 3 times.(ƒİº”ÿÿÿÿÿ8Èûüƒ2J$fa734602-a721-4ea1-9a64-9a591ed7ab16
+§
+java:S1192"dDefine a constant instead of duplicating this literal "//input[@id=\"customer.firstName\"]" 3 times.(Îµè8Èûüƒ2J$e05f2935-418b-41f9-aa59-e34d089ee5c2
+”
+java:S2095"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8†Æ üƒ2J$04375db3-5052-4d8d-a956-fd9742e10e29
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(í‰ˆçÿÿÿÿÿ8†Æ üƒ2J$7b65f37c-cba9-4bc3-828e-7306deb90293
+
+java:S2095"HUse try-with-resources or close this "Playwright" in a "finally" clause.(Ã’“Íøÿÿÿÿ8†Æ üƒ2J$79274315-fb94-43df-8590-b759af1e9a1d
+s
+java:S5960]"+Remove this assertion from production code.(³çÅ¸ÿÿÿÿÿ8×óŸüƒ2J$079e1943-1368-4a30-b951-d176f7b1d592

@@ -1,0 +1,9 @@
+
+
+java:S2095	"HUse try-with-resources or close this "Playwright" in a "finally" clause.(Ã’“Íøÿÿÿÿ8èÛªÏ„2J$e4121a92-2beb-4196-b354-ac4aa10e2a06
+”
+java:S2095"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8êÛªÏ„2J$4f8715a1-4952-4f08-abff-769d4b3fe645
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ïÛªÏ„2J$6fdad577-5488-4813-81af-02add73da6ef
+n
+java:S5960"+Remove this assertion from production code.(¬º±È8‹ÜªÏ„2J$bb78452d-d782-43f6-9c42-0df627229f85

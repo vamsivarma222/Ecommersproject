@@ -1,0 +1,12 @@
+
+˜	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß¿à”ûÿÿÿÿ8¨ Úòƒ2J$3002a9d7-0760-47ea-9b91-8e8516eb73cf
+˜	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ²Ô½üÿÿÿÿ8© Úòƒ2J$7f788c07-1a5b-4dfd-ad35-482ebd2e9064
+Š
+java:S2095"BUse try-with-resources or close this "Page" in a "finally" clause.(í‰ˆçÿÿÿÿÿ8® Úòƒ2J$b0797a36-32a4-47b6-a05b-5f7ec6a00c07
+”
+java:S2095"LUse try-with-resources or close this "BrowserContext" in a "finally" clause.(¦¶ş½úÿÿÿÿ8® Úòƒ2J$2c681a3b-3aac-492b-87a2-c5c69bb1340c
+
+java:S2095
+"HUse try-with-resources or close this "Playwright" in a "finally" clause.(Ã’“Íøÿÿÿÿ8® Úòƒ2J$893b5dc4-1af5-4a18-8db3-54bb9f290272
+s
+java:S5960)"+Remove this assertion from production code.(±ôÇÃúÿÿÿÿ8Ã Úòƒ2J$c9a3c2e4-ba05-4113-8c57-c618fb4d9739
